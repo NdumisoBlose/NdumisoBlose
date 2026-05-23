@@ -1,31 +1,43 @@
-<h1>Hi, I'm Ndumiso! <br/><a href="https://github.com/ndumisoblose">Programmer</a></h1>
+Hi, I am Ndumiso Blose
 
-<h2>👨‍💻 Software Development Project:</h2>
+I'm a 2nd year Information Technology student at **Belgium Campus ITversity** in Pretoria, South Africa, passionate about building software that solves real problems.
 
-- <b>QUEUE MANAGEMENT MOBILE APPLICATION</b>
-  - [Slide deck of app](https://docs.google.com/presentation/d/1hlrZ134AcJFzZ9lgfzsoctPh5LYc8lMe/edit?usp=drive_link&ouid=101418769207880930018&rtpof=true&sd=true)
-  - [Video presentation](https://youtu.be/eN4BGUajH_Y)
+Tech stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 
-<h2> 🤳 Connect with me:</h2>
+What I'm working on
 
-[<img align="left" alt="NdumisoBlose | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="NdumisoBlose | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- Building a **Queue Management Mobile Application** to reduce wait times in service environments
+- Creating a **South African Career Search Website** to help job seekers find opportunities locally
+- Deepening my knowledge of **Linux, system engineering, and DevOps** through ALX Africa
 
-[instagram]: https://www.instagram.com/ndumiso_blose_/
-[linkedin]: https://linkedin.com/in/ndumiso-blose
+Currently learning
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- JavaScript frameworks (React)
+- RESTful APIs and backend fundamentals
+- Software design principles and clean code practices
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured projects
+
+| Project | Description | Tech |
+
+[SA Career Search Website](https://github.com/NdumisoBlose/SA-Career-Search-Website) | A job search platform for South African opportunities | HTML, CSS |
+[Queue Management App](https://youtu.be/eN4BGUajH_Y) | Mobile app to manage queues and reduce wait times | Mobile Dev |
+[ALX Low Level Programming](https://github.com/NdumisoBlose/alx-low_level_programming) | C programming exercises and projects | C |
+
+
+Get in touch
+
+-[LinkedIn — Ndumiso Blose](https://linkedin.com/in/ndumiso-blose)
+-Pretoria, South Africa
+-[blosendumo@gmail.com] 
+
+
+*Open to bursary opportunities and software development internships. Let's build something great.*
